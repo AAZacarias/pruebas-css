@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#contenedor{
+    background-color: rgb(236, 233, 227);
+    width: 1200px;
+    height: 1200px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+header{
+    height: 5%;
+    width: auto;
+    background-color: rgb(75, 74, 74);
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    height:5%;
+    width: auto;
+    background-color:rgb(75, 74, 74) ;
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    background-color: rgb(75, 74, 74);
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+}
